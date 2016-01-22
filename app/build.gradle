@@ -1,0 +1,26 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 19
+    buildToolsVersion "23.0.2"
+
+    defaultConfig {
+        applicationId "com.example.fyp"
+        minSdkVersion 14
+        targetSdkVersion 19
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    compile files('libs/android-support-v13.jar')
+    compile files('C:/Users/jadephong/Documents/JADE/FYPstuff/FYP/libs/activation.jar')
+    compile files('C:/Users/jadephong/Documents/JADE/FYPstuff/FYP/libs/additionnal.jar')
+    compile files('C:/Users/jadephong/Documents/JADE/FYPstuff/FYP/libs/mail.jar')
+}

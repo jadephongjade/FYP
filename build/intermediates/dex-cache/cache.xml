@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\jadephong\Documents\JADE\FYPstuff\FYP\libs\activation.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d1257cbff6faa44c1f325ae0d9413522d4644383">
+        <dex dex="C:\Users\jadephong\Documents\JADE\FYPstuff\app\build\intermediates\pre-dexed\debug\activation-161e8311f622afb1a0d54a0308593f733875cc5e.jar" />
+    </item>
+    <item
+        jar="C:\Users\jadephong\Documents\JADE\FYPstuff\FYP\libs\mail.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="428e267abff0d10802ccde86b915da2c20471160">
+        <dex dex="C:\Users\jadephong\Documents\JADE\FYPstuff\app\build\intermediates\pre-dexed\debug\mail-cd6dc8e8baedec154fadabc272889ed7b9a5a750.jar" />
+    </item>
+    <item
+        jar="C:\Users\jadephong\Documents\JADE\FYPstuff\FYP\libs\additionnal.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="bd9e8dc422bb8c8405359947fe9f4282b49f57f4">
+        <dex dex="C:\Users\jadephong\Documents\JADE\FYPstuff\app\build\intermediates\pre-dexed\debug\additionnal-43716fa6db070dd5eeea6d41a89bb7d953986169.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.fyp.MainActivity" >
+
+ <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:showAsAction="ifRoom"
+        android:icon="@drawable/profile"/>
+</menu>
+<!-- From: file:/C:/Users/jadephong/Documents/JADE/FYPstuff/app/src/main/res/menu/main.xml -->
