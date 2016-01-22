@@ -2,4 +2,4 @@
 <selector xmlns:android="http://schemas.android.com/apk/res/android">
     <item android:state_selected="true" android:color="#eb543b"></item>
     <item android:state_selected="false" android:color="#000000"></item>
-</selector><!-- From: file:/C:/Users/jadephong/Documents/JADE/FYPstuff/app/src/main/res/drawable/tabtextcolor.xml -->
+</selector><!-- From: file:/D:/FYP/app/src/main/res/drawable/tabtextcolor.xml -->

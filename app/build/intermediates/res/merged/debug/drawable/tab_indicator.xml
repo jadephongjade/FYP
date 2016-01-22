@@ -12,4 +12,4 @@
     <item android:state_selected="true" android:state_pressed="true" android:drawable="@drawable/tab_pressed" />
     <item android:state_pressed="true" android:drawable="@drawable/tab_pressed" />
 
-</selector><!-- From: file:/C:/Users/jadephong/Documents/JADE/FYPstuff/app/src/main/res/drawable/tab_indicator.xml -->
+</selector><!-- From: file:/D:/FYP/app/src/main/res/drawable/tab_indicator.xml -->

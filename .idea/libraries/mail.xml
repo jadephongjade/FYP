@@ -1,7 +1,7 @@
 <component name="libraryTable">
   <library name="mail">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/FYP/libs/mail.jar!/" />
+      <root url="jar://$USER_HOME$/Documents/JADE/FYPstuff/FYP/libs/mail.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
